@@ -1,5 +1,5 @@
 # Final_Work
-![it](C:\Users\user\Desktop\Final Work\foto.jpg)
+![it](foto.jpg)
 
 # **Итоговая проверочная работа**
 
